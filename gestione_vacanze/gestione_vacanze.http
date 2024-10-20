@@ -1,0 +1,6 @@
+@gestione_vacanze_HostAddress = http://localhost:5041
+
+GET {{gestione_vacanze_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
