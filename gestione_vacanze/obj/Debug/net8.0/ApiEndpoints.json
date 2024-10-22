@@ -96,5 +96,51 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "gestione_vacanze.Controllers.RecUtenteController",
+    "Method": "GetAllRecUtente",
+    "RelativePath": "api/recUtente/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[gestione_vacanze.Models.RecUtenteDTO, gestione_vacanze, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "gestione_vacanze.Controllers.RecUtenteController",
+    "Method": "InsertRec",
+    "RelativePath": "api/recUtente/insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newRec",
+        "Type": "gestione_vacanze.Models.RecUtentePostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

@@ -1,14 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-
-namespace gestione_vacanze.Models
+﻿namespace gestione_vacanze.Models
 {
-    public class RecUtente
+    public class RecUtentePostDTO
     {
-        public int RecUtenteId { get; set; }
-        [Column("NomeU")]
         public string NomeUtente { get; set; } = null!;
-        public string Codice { get; set; } = null!;
-        [Column("Voto")]
         private int _voto;
         #region prop voto
         public int Voto
@@ -28,7 +22,6 @@ namespace gestione_vacanze.Models
         }
         #endregion
         public string? Commento { get; set; }
-        public DateOnly DataRec { get; set; }
         public int PacchettoRif { get; set; }
     }
 }

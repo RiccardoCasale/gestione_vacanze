@@ -57,7 +57,7 @@ namespace gestione_vacanze.Repos
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Pacchetto> GetAll()
+        public List<Pacchetto> GetAll()
         {
             throw new NotImplementedException();
         }

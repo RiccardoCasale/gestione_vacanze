@@ -61,7 +61,7 @@ namespace gestione_vacanze.Repos
             throw new NotImplementedException();
         }
 
-        IEnumerable<Destinazione> IRepo<Destinazione>.GetAll()
+        List<Destinazione> IRepo<Destinazione>.GetAll()
         {
             throw new NotImplementedException();
         }

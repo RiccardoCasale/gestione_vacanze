@@ -2,7 +2,7 @@
 {
     public interface IRepo <T>
     {
-        IEnumerable<T> GetAll();
+        List<T> GetAll();
         T? Get(int id);
         bool Create(T entity);
         bool Update(T entity);

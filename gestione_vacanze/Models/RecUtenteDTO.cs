@@ -3,7 +3,7 @@
     public class RecUtenteDTO
     {
         public string NomeUtente { get; set; } = null!;
-        public string Codice { get; set; } = Guid.NewGuid().ToString();
+        public string Codice { get; set; } = null!;
         private int _voto;
         #region prop voto
         public int Voto
@@ -24,5 +24,6 @@
         #endregion
         public string? Commento { get; set; }
         public DateOnly DataRec { get; set; }
+        public int PacchettoRif { get; set; }
     }
 }

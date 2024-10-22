@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\services\\pacchettoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\services\\pacchettoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\models\\recutentepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\models\\recutentepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\repos\\pacchettorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\repos\\pacchettorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\services\\recutenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\services\\recutenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\controllers\\pacchettocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\controllers\\pacchettocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\controllers\\recutentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\controllers\\recutentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\models\\pacchetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\models\\pacchetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\models\\recutentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\models\\recutentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\models\\vacanzecontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\models\\vacanzecontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\repos\\recutenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\repos\\recutenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\controllers\\destinazionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\controllers\\destinazionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\models\\recutente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\models\\recutente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\repos\\destinazionerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\repos\\destinazionerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\services\\destinazioneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\services\\destinazioneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|c:\\users\\utente\\documents\\gestione_vacanze\\gestione_vacanze\\models\\vacanzecontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72AA64F-D39B-4FEF-808E-77809000EC7F}|gestione_vacanze\\gestione_vacanze.csproj|solutionrelative:gestione_vacanze\\models\\vacanzecontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,98 +42,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 321,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DestinazioneRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Repos\\DestinazioneRepository.cs",
-              "RelativeDocumentMoniker": "gestione_vacanze\\Repos\\DestinazioneRepository.cs",
-              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Repos\\DestinazioneRepository.cs",
-              "RelativeToolTip": "gestione_vacanze\\Repos\\DestinazioneRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:45:55.952Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PacchettoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Repos\\PacchettoRepository.cs",
-              "RelativeDocumentMoniker": "gestione_vacanze\\Repos\\PacchettoRepository.cs",
-              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Repos\\PacchettoRepository.cs",
-              "RelativeToolTip": "gestione_vacanze\\Repos\\PacchettoRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwCQAAAANAAAAAAAAAA==",
+              "Title": "RecUtenteService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Services\\RecUtenteService.cs",
+              "RelativeDocumentMoniker": "gestione_vacanze\\Services\\RecUtenteService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Services\\RecUtenteService.cs",
+              "RelativeToolTip": "gestione_vacanze\\Services\\RecUtenteService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:29:05.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PacchettoService.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Services\\PacchettoService.cs",
-              "RelativeDocumentMoniker": "gestione_vacanze\\Services\\PacchettoService.cs",
-              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Services\\PacchettoService.cs*",
-              "RelativeToolTip": "gestione_vacanze\\Services\\PacchettoService.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:28:41.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PacchettoController.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Controllers\\PacchettoController.cs",
-              "RelativeDocumentMoniker": "gestione_vacanze\\Controllers\\PacchettoController.cs",
-              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Controllers\\PacchettoController.cs",
-              "RelativeToolTip": "gestione_vacanze\\Controllers\\PacchettoController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:02:29.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DestinazioneController.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Controllers\\DestinazioneController.cs",
-              "RelativeDocumentMoniker": "gestione_vacanze\\Controllers\\DestinazioneController.cs",
-              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Controllers\\DestinazioneController.cs",
-              "RelativeToolTip": "gestione_vacanze\\Controllers\\DestinazioneController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:29:24.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VacanzeContex.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\VacanzeContex.cs",
-              "RelativeDocumentMoniker": "gestione_vacanze\\Models\\VacanzeContex.cs",
-              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\VacanzeContex.cs",
-              "RelativeToolTip": "gestione_vacanze\\Models\\VacanzeContex.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T14:23:18.68Z",
+              "WhenOpened": "2024-10-22T09:20:54.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pacchetto.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\Pacchetto.cs",
-              "RelativeDocumentMoniker": "gestione_vacanze\\Models\\Pacchetto.cs",
-              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\Pacchetto.cs",
-              "RelativeToolTip": "gestione_vacanze\\Models\\Pacchetto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
+              "Title": "RecUtenteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\RecUtenteDTO.cs",
+              "RelativeDocumentMoniker": "gestione_vacanze\\Models\\RecUtenteDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\RecUtenteDTO.cs",
+              "RelativeToolTip": "gestione_vacanze\\Models\\RecUtenteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:18:54.733Z",
+              "WhenOpened": "2024-10-22T10:08:46.586Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecUtentePostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\RecUtentePostDTO.cs",
+              "RelativeDocumentMoniker": "gestione_vacanze\\Models\\RecUtentePostDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\RecUtentePostDTO.cs",
+              "RelativeToolTip": "gestione_vacanze\\Models\\RecUtentePostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:45:15.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecUtenteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Repos\\RecUtenteRepository.cs",
+              "RelativeDocumentMoniker": "gestione_vacanze\\Repos\\RecUtenteRepository.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Repos\\RecUtenteRepository.cs",
+              "RelativeToolTip": "gestione_vacanze\\Repos\\RecUtenteRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:55:31.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VacanzeContex.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\VacanzeContex.cs",
+              "RelativeDocumentMoniker": "gestione_vacanze\\Models\\VacanzeContex.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\VacanzeContex.cs",
+              "RelativeToolTip": "gestione_vacanze\\Models\\VacanzeContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:23:18.68Z"
             },
             {
               "$type": "Document",
@@ -151,35 +120,41 @@
               "RelativeDocumentMoniker": "gestione_vacanze\\Program.cs",
               "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Program.cs",
               "RelativeToolTip": "gestione_vacanze\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T15:52:31.775Z",
+              "WhenOpened": "2024-10-21T21:24:34.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecUtente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\RecUtente.cs",
+              "RelativeDocumentMoniker": "gestione_vacanze\\Models\\RecUtente.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Models\\RecUtente.cs",
+              "RelativeToolTip": "gestione_vacanze\\Models\\RecUtente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:09:40.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Repos\\IRepo.cs",
-              "RelativeDocumentMoniker": "gestione_vacanze\\Repos\\IRepo.cs",
-              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Repos\\IRepo.cs",
-              "RelativeToolTip": "gestione_vacanze\\Repos\\IRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RecUtenteController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Controllers\\RecUtenteController.cs",
+              "RelativeDocumentMoniker": "gestione_vacanze\\Controllers\\RecUtenteController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Controllers\\RecUtenteController.cs",
+              "RelativeToolTip": "gestione_vacanze\\Controllers\\RecUtenteController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:32:11.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DestinazioneService.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Services\\DestinazioneService.cs",
-              "RelativeDocumentMoniker": "gestione_vacanze\\Services\\DestinazioneService.cs",
-              "ToolTip": "C:\\Users\\Utente\\Documents\\gestione_vacanze\\gestione_vacanze\\Services\\DestinazioneService.cs",
-              "RelativeToolTip": "gestione_vacanze\\Services\\DestinazioneService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T14:27:26.184Z",
+              "WhenOpened": "2024-10-21T21:04:36.231Z",
               "EditorCaption": ""
             }
           ]
